@@ -5,6 +5,6 @@ public class Sum {
         int a =10;
         int b= 90;
 
-        System.out.Println(a+b)
+        System.out.Println("The sum of the two numbers is: " + (a+b))
     }
 }
